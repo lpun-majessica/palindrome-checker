@@ -40,13 +40,9 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    position: absolute;
-    top: 25vh;
-    left: 15vw;
+    margin: 200px auto;
     max-width: 600px;
     min-width: 600px;
-    /* max-height: 400px; */
-    /* min-height: 400px; */
     background-color: var(--check-box);
     box-shadow: 5px 10px var(--accent);
     border-radius: 25px;
